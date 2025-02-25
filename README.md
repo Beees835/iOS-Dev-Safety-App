@@ -1,5 +1,4 @@
-#  SafetyApp - FIT3178 iOS dev project 
-
+#  SafetyApp - iOS dev project 
 
 ## 1. Introduction:
 
@@ -42,9 +41,6 @@ Copliot:
 https://github.com/intitni/CopilotForXcode.git
 
 ## 5. Conclusion: 
-
-I hope who ever going through this app can see the effort i have devoted. I have spent way more time than I am expected based on the suggested hours really.
-Yet, there are plenty of in perfections and minor bugs potentially. But I have tried my best to accomplish this assignment. 
-Meanwhile, I hope you also enjoy the app I have created as my first ios app. 
+I hope you also enjoy the app I have created as my first ios app. 
 Lastly, thank you for your time going through this app. 
 
